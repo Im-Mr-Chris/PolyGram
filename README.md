@@ -1,6 +1,3 @@
-# PetGram
-In this tutorial, you will learn how to build a Social Media DApp (Decentralized Application) like Instagram and how to Deploy it on the Polygon (Matic) Mumbai test network. So, grab your favorite drink ☕️ and let's get started!
-
 PetGram is a decentralized version of the Instagram platform for pets where users can browse cute photos of their favorite pets, see details of a specific pet, create a post and earn NFTS.
 
 
