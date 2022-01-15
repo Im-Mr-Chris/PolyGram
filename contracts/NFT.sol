@@ -1,8 +1,11 @@
+// SPDX-License-Identifier: MIT
+// OpenZeppelin Contracts v4.4.1 (token/ERC721/ERC721.sol)
+
 pragma solidity ^0.8.10;
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 
 contract NFT is ERC721 {
-  constructor() ERC721("NFT", "NFT") public  {}
+  constructor() ERC721("Nft", "NFT") public  {}
 
 
    function mintPetNFT(string memory _tokenURI) external {
@@ -28,3 +31,5 @@ contract NFT is ERC721 {
  the last thing to do is define the NFT Created event for transaction confirmations.
  confirmations will return the NFT tokenid, imagePath, the time, and users wallet address.
  */
+
+ }

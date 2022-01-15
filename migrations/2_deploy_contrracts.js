@@ -1,8 +1,3 @@
-const MyNFT = artifacts.require('NFT')
-module.exports = function (deployer) {
-    deployer.deploy(MyNFT)
-}
-
 /*
 
     Deploy the smart contract to our development blockchain Ganache.
@@ -15,3 +10,7 @@ module.exports = function (deployer) {
     truffle migrate
 
 */
+const MyNFT = artifacts.requre('NFT')
+module.exports = function (deployer) {
+   deployer.deploy(MyNFT)
+}
