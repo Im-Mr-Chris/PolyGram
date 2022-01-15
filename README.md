@@ -1,9 +1,9 @@
-PetGram is a decentralized version of the Instagram platform for pets where users can browse cute photos of their favorite pets, see details of a specific pet, create a post and earn NFTS.
+PolyGram is a decentralized version of the Instagram platform for pets where users can browse cute photos of their favorite pets, see details of a specific pet, create a post and earn NFTS.
 
 
 
 # How it's made
-PetGram application makes use of the following softwares:
+PolyGram application makes use of the following softwares:
 * Deployed smart contracts on the `Polygon (Matic)` Mumbai test network.
 * Used `Truffle & MetaMask`.
 * Upload and store files to `IPFS NFTStorage` [IPFS](https://nft.storage/) platform.
@@ -16,8 +16,6 @@ PetGram application makes use of the following softwares:
 
 ## Demo
 - [Home Page](https://6119c859fed150c8471f90fd--petgrams.netlify.app/)
-  ![Main Page](https://raw.githubusercontent.com/electrone901/petgram/main/src/images/cover.png) <br> <br>
-
 
 # Getting Started
 ### `yarn start`
